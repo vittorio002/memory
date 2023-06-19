@@ -1,0 +1,6 @@
+body{
+  background-image: url("https://www.nationalgeographic.it/upload/ngi-hero/gettyimages-520724361.jpg?w=768&h=432");
+  height: 500px; /* You must set a specified height */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
